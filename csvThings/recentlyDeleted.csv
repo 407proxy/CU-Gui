@@ -1,0 +1,5 @@
+"Index","InsuranceID","Name","Age","Experience","Car Model","Car Age","Accident History","Plate Number","Type Of Insurance","Premium Amount"
+"0","272510","Adin Ross","19","3","Ford","4","3","KKL4","Partial Coverage","37500"
+"2","704772","toby","19","2","Volkswagen","8","1","KKQ1","Basic Coverage","22500"
+"0","704772","toby","19","2","toyota","3","2","D2SC","Partial Coverage","10000"
+"1","704772","toby","19","2","toyota","3","2","FEA2","Partial Coverage","10000"

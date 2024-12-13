@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "dist/lib/AbsoluteLayout.jar",
+        "dist/lib/opencsv-5.9.jar",
+        "dist/lib/commons-lang3-3.14.0.jar"
+    ]
+}
