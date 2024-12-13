@@ -227,7 +227,7 @@ public class New_Customer extends javax.swing.JFrame {
 
         getContentPane().add(jPanel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 40, 430, 420));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\WIndows 11\\Documents\\Group 310.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("img\\Group 310.png")); // NOI18N
         getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 40, -1, -1));
 
         jPanel1.setBackground(new java.awt.Color(102, 102, 102));

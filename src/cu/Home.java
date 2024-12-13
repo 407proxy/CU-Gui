@@ -39,7 +39,7 @@ public class Home extends javax.swing.JFrame {
         });
         getContentPane().add(jButton2, new org.netbeans.lib.awtextra.AbsoluteConstraints(70, 150, 250, 50));
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\WIndows 11\\Documents\\Frame 3143.png")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon("img\\Frame 3143.png")); // NOI18N
         getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 0, -1, -1));
 
         jPanel1.setBackground(new java.awt.Color(102, 102, 102));

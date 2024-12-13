@@ -1,5 +1,5 @@
 package cu;
-public class PremiumCalculator implements intPC{
+public class PremiumCalculator implements int_PC{
     public int calculatePremium(int premiumAmount, int accidentHistory, int drivingExperience){
         premiumAmount += (7500 * accidentHistory);
         if(drivingExperience < 3){

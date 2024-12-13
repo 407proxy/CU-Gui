@@ -7,7 +7,7 @@ import java.io.IOException;
 import java.util.List;
 import java.io.FileReader;
 
-public class Gui_Verification implements intV{
+public class Gui_Verification implements int_V{
     public boolean check_Underage(int age) {
         return age < 18;  
     }

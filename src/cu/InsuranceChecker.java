@@ -1,5 +1,5 @@
 package cu;
-class InsuranceChecker implements intIC{
+class InsuranceChecker implements int_IC{
     String icReturn = "";
 
     public String checkInsurance(int carAge, int accidentHistory) {

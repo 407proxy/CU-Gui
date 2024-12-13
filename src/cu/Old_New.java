@@ -49,7 +49,7 @@ public class Old_New extends javax.swing.JFrame {
         });
         getContentPane().add(jButton3, new org.netbeans.lib.awtextra.AbsoluteConstraints(10, 260, 110, 30));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\WIndows 11\\Documents\\Frame 3143.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("img\\Frame 3143.png")); // NOI18N
         getContentPane().add(jLabel1, new org.netbeans.lib.awtextra.AbsoluteConstraints(50, 0, -1, -1));
 
         jPanel1.setBackground(new java.awt.Color(102, 102, 102));

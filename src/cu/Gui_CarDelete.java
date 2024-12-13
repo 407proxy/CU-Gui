@@ -94,7 +94,7 @@ public class Gui_CarDelete extends javax.swing.JFrame {
 
         jPanel1.setBackground(new java.awt.Color(102, 102, 102));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\WIndows 11\\Documents\\Frame 3143.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("img\\Frame 3143.png")); // NOI18N
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);

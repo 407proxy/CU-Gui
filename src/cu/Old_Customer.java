@@ -139,7 +139,7 @@ public class Old_Customer extends javax.swing.JFrame {
         });
         getContentPane().add(jButton2, new org.netbeans.lib.awtextra.AbsoluteConstraints(510, 430, 110, 30));
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\WIndows 11\\Documents\\Group 310.png")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon("img\\Group 310.png")); // NOI18N
         getContentPane().add(jLabel2, new org.netbeans.lib.awtextra.AbsoluteConstraints(30, 50, -1, -1));
 
         jPanel3.setBackground(new java.awt.Color(204, 204, 204));
